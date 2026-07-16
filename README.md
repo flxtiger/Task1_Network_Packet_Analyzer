@@ -76,28 +76,20 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
+## 📸 Screenshots
 
+### Main Menu
 
-# 📸 Screenshots
+![Main Menu](screenshots/main%20menu.png)
 
-## Main Menu
+### Packet Capture
 
-![Main Menu](screenshots/main_menu.png)
+![Packet Capture](screenshots/packet%20capture.png)
 
----
+### Packet Summary
 
-## Packet Capture
+![Packet Summary](screenshots/packet%20summar.png)
 
-![Packet Capture](screenshots/packet_capture.png)
-
----
-
-## Packet Summary
-
-![Packet Summary](screenshots/packet_summary.png)
-
----
 
 ## 📄 Output Files
 
