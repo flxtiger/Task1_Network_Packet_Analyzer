@@ -78,16 +78,24 @@ python main.py
 
 ---
 
-## 📸 Screenshots
 
-Add your screenshots inside the **screenshots** folder.
+# 📸 Screenshots
 
-Example:
+## Main Menu
 
-- Project Structure
-- Main Menu
-- Packet Capture Output
-- Packet Summary
+![Main Menu](screenshots/main_menu.png)
+
+---
+
+## Packet Capture
+
+![Packet Capture](screenshots/packet_capture.png)
+
+---
+
+## Packet Summary
+
+![Packet Summary](screenshots/packet_summary.png)
 
 ---
 
