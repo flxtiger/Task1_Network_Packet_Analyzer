@@ -35,7 +35,7 @@ A Python-based **Network Packet Analyzer** developed as part of the **CodSoft Cy
 ## 📂 Project Structure
 
 ```text
-Task1_Network_Packet_Analyzer/
+CODSOFT_TASK1/
 │
 ├── main.py
 ├── README.md
@@ -61,7 +61,7 @@ git clone <repository-link>
 ### 2. Open the project folder
 
 ```bash
-cd Task1_Network_Packet_Analyzer
+cd CODSOFT_TASK1\
 ```
 
 ### 3. Install dependencies
